@@ -8,6 +8,15 @@ Time spent: **6** hours spent in total
 
 ## Required Features
 
+<div>
+    <a href="https://www.loom.com/share/8f4998c060a649aaa5a08b09e9b2b24c">
+     
+    </a>
+    <a href="https://www.loom.com/share/8f4998c060a649aaa5a08b09e9b2b24c">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/8f4998c060a649aaa5a08b09e9b2b24c-94e09e9a49bbd062-full-play.gif">
+    </a>
+  </div>
+
 The following **required** functionality is completed:
 
 - [ ] User can launch camera to take photo instead of photo library
