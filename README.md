@@ -10,7 +10,7 @@ Time spent: **6** hours spent in total
 
 <div>
     <a href="https://www.loom.com/share/8f4998c060a649aaa5a08b09e9b2b24c">
-     
+      <p>Loom | Free Screen & Video Recording Software | Loom - 17 February 2025 - Watch Video</p>
     </a>
     <a href="https://www.loom.com/share/8f4998c060a649aaa5a08b09e9b2b24c">
       <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/8f4998c060a649aaa5a08b09e9b2b24c-94e09e9a49bbd062-full-play.gif">
